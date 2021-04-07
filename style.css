@@ -1,0 +1,18 @@
+button {
+
+  font-size:25px;
+}
+
+#fortuneSection p{
+  display: inline;
+}
+.fortuneStyle {
+  transition-duration: 0.5s;
+font-family: cursive;
+/* font-size:45px; */
+
+}
+#fortuneTextName{
+  padding:0;
+  margin:0;
+}
